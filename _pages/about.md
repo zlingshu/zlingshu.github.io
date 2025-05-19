@@ -7,5 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Mater of CS, UCAS. Research interests include CV/MLLM.<br>
+Mater of Computer application technology, UCAS.<br>
+Research interests include CV/MLLM.
 
